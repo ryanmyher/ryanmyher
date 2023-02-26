@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @ryanmyher
-- 👀 I’m interested in no-code, collaboration, and the future of work
-- 🌱 I’m currently building Shuttle Labs
-- 📫 How to reach me ...@ryanmyher on Twitter
+Ryan Myher here!
+Super passionate about no-code, growth hacking, and democratizing finance. 
+DM on Twitter @ryanmyher
